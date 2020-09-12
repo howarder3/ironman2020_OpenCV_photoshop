@@ -4,7 +4,7 @@
 
 
 
-如果要參考文章說明，可以在 閱讀我的文章~
+如果要參考文章說明，可以在 https://ithelp.ithome.com.tw/users/20120424/ironman/3642 閱讀我的文章~
 
 ### 【錢不夠買ps的我，只好用OpenCV來修圖了】 
 

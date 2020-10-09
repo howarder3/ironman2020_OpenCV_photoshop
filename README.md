@@ -62,7 +62,7 @@ I don’t have enough money to buy photoshop, so I use OpenCV to edit my picture
 
 # My photoshop ver1.0 
 
-![https://ithelp.ithome.com.tw/upload/images/20201009/20120424qv101SmLE2.png](https://ithelp.ithome.com.tw/upload/images/20201009/20120424qv101SmLE2.png)
+![https://ithelp.ithome.com.tw/upload/images/20201010/20120424tR7UlqKPIz.png](https://ithelp.ithome.com.tw/upload/images/20201010/20120424tR7UlqKPIz.png)
 
 
 ```python
